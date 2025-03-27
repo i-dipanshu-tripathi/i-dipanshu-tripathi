@@ -1,12 +1,53 @@
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=i-dipanshu-tripathi&theme=bear&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=i-dipanshu-tripathi&theme=bear&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=i-dipanshu-tripathi&theme=bear&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<h2 align="left">Hi Guys, 👋 I'm Dipanshu Tripathi , Soon to be a Full Stack Developer</h2>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+###
+
+<p align="left">🌍 Based in India | 🖥️ Full-Stack Developer | 🌱 Lifelong Learner</p>
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/i-dipanshu-tripathi/i-dipanshu-tripathi/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/i-dipanshu-tripathi/i-dipanshu-tripathi/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/i-dipanshu-tripathi/i-dipanshu-tripathi/output/github-snake.svg" />
+</picture>
+
+
+###
+
+
+###
+
+<h2 align="left">💻 # About Me</h2>
+
+###
+
+<p align="left">I'm a passionate **Full-Stack Developer** from India with experience in building web applications using modern technologies. I enjoy working on both frontend and backend, solving problems, and collaborating on exciting projects.</p>
+
+###
+
+## 🚀 Tech Stack  
+- **Frontend:** React, HTML, CSS, JavaScript  
+- **Backend:** Node.js, Spring Boot, Express.js  
+- **Database:** MySQL, MongoDB  
+- **Tools:** Git, Docker, Postman  
+
+
+## 🛠️ Projects  
+Here are some of my projects:  
+
+- **[Project 1](Project Link)** - A full-stack web application using React and Spring Boot  
+- **[Project 2](Project Link)** - REST API for an e-commerce platform using Node.js and MongoDB  
+- **[Project 3](Project Link)** - Portfolio website built with Next.js and Tailwind CSS  
+
+## 💼 Work Experience  
+- 💻 Full-Stack Developer Intern at **XYZ Company**  
+- 🧑‍🏫 Mentor at **Open Source Community**
+
+  
+## 🌎 Let's Connect  
+- LinkedIn: http://www.linkedin.com/in/idipanshutripathi
+- GitHub: https://github.com/i-dipanshu-tripathi 
+- Email: i.dipanshu.tripathi@gmail.com
 
 ---
-[![](https://visitcount.itsvg.in/api?id=i-dipanshu-tripathi&icon=7&color=0)](https://visitcount.itsvg.in)
+⭐ **If you like my work, consider giving my repositories a star!**  
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
